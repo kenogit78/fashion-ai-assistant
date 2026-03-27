@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/raw/
+data/processed/
+models/
+eval_results/
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/
